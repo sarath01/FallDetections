@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJAPw63BeaIrm3MeCS3XEh65G4OWXD2A9gnyVKyf4wS/k4D4M3+Qhtpr+8G0gaEcmo8W1/7o/32m06U9w1lXLw==",
+  "success": true,
+  "projectFilePath": "/Users/sarathkonda/Downloads/FallDetect.iOS.FullProject/FallDetect/FallDetect.csproj",
+  "expectedPackageFiles": [
+    "/Users/sarathkonda/.nuget/packages/microsoft.net.illink.tasks/8.0.14/microsoft.net.illink.tasks.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
