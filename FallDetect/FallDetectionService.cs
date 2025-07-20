@@ -2,7 +2,7 @@
 // FallDetect - FallDetectionService.cs
 // Developed by Sarath Reddy Konda, 2025
 //
-// Copyright (c) 2025 Sarath Konda
+// Copyright (c) 2025 Sarath Reddy Konda
 // Licensed under the MIT License. See LICENSE file in the project root.
 //
 // This service detects falls based on device motion and acceleration patterns.
