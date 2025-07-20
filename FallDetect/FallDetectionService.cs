@@ -1,6 +1,6 @@
 //
 // FallDetect - FallDetectionService.cs
-// Developed by Sarath Konda, 2025
+// Developed by Sarath Reddy Konda, 2025
 //
 // Copyright (c) 2025 Sarath Konda
 // Licensed under the MIT License. See LICENSE file in the project root.
