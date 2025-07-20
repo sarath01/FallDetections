@@ -19,5 +19,5 @@ detector.StartMonitoring();
 
 ## License
 
-MIT License © 2025 Sarath Konda  
+MIT License © 2025 Sarath Reddy Konda  
 Built in support to advance public-interest health tech.
