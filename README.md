@@ -20,4 +20,4 @@ detector.StartMonitoring();
 ## License
 
 MIT License © 2025 Sarath Konda  
-Built in support of the EB2-NIW petition to advance public-interest health tech.
+Built in support to advance public-interest health tech.
